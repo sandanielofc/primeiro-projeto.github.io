@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  background-color: #191622;
+  color: white;
+}
+input {
+  height: 40px;
+  font-size: 20px;
+}
+button {
+  background-color: blue;
+  color: white;
+  height: 43px;
+  border: none;
+  font-size: 20px;
+}
+h3 {
+  color: blue;
+}
